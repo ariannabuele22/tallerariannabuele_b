@@ -3,9 +3,9 @@
 Datos:
 - Nombre: Arianna Buele
 - Fecha: 2023 - 06 - 09
-Instalación y configuración de entorno de desarrollo
 
 ## Descripción 
+Instalación y configuración de entorno de desarrollo
 ## Funcionamiento
 
 ![](img/carro.jpg)
